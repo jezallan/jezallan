@@ -2,6 +2,6 @@
 
 [Uswitch - Android](https://play.google.com/store/apps/details?id=com.uswitchmobileapp)
 
-[domore](https://domorer.network)
+[domore](https://domore.network)
 
 [Foodchain](https://www.joinfoodchain.com)
